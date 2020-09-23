@@ -130,7 +130,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../philip-morris-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\hr-system\routes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -146,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600828661737</updated>
-      <workItem from="1600828662785" duration="6633000" />
+      <workItem from="1600828662785" duration="8872000" />
     </task>
     <servers />
   </component>
@@ -154,13 +159,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600828931137">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600850766944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600828931137" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600833419758">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600850766944" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600851345130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600833419758" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600851345130" />
   </component>
 </project>
