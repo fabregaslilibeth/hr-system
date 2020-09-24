@@ -20,5 +20,6 @@ Route::middleware('auth:backend')->get('/backend', function (Request $request) {
 });
 
 
+
 Route::get('/backend/all', [BackendUserController::class, 'index'])->name('all');
 
