@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b0907124-6ac4-4e1f-82bf-a7b2d2ed475d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,14 +138,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../philip-morris-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../organic" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\laragon\www\hr-system\app\Http\Controllers\Web" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\hr-system\app\Http\Requests" />
+      <recent name="D:\laragon\www\hr-system\resources\views\backend\employees" />
+      <recent name="D:\laragon\www\hr-system\resources\views\backend" />
+      <recent name="D:\laragon\www\hr-system\app\Http\Controllers\Backend" />
       <recent name="D:\laragon\www\hr-system\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\hr-system\app\Http" />
+      <recent name="D:\laragon\www\hr-system\app\Http\Controllers" />
+      <recent name="D:\laragon\www\hr-system\app\Http\Controllers\Backend" />
+      <recent name="D:\laragon\www\hr-system\app\Http\Controllers\Web" />
     </key>
   </component>
   <component name="RunManager">
@@ -166,14 +177,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600916704327">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1600932428490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600916704327" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600851345130">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600932428490" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600932858161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600851345130" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600932858161" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600932883059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600932883059" />
   </component>
 </project>

@@ -1,7 +1,6 @@
 <?php
 
-use App\Http\Controllers\Backend\BackendUserController;
-use Illuminate\Http\Request;
+use App\Http\Controllers\Backend\EmployeeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,12 +13,10 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "backend" middleware group. Enjoy building your API!
 |
 */
+//
+//Route::middleware('auth:backend')->get('/backend', function (Request $request) {
+//    return $request->user();
+//});
 
-Route::middleware('auth:backend')->get('/backend', function (Request $request) {
-    return $request->user();
-});
-
-
-
-Route::get('/backend/all', [BackendUserController::class, 'index'])->name('all');
+Route::resource('employees', EmployeeController::class);
 
