@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Backend\EmployeeController;
+use App\Http\Controllers\Backend\QuestionController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,4 +20,5 @@ use Illuminate\Support\Facades\Route;
 //});
 
 Route::resource('employees', EmployeeController::class);
+Route::resource('questions', QuestionController::class);
 
